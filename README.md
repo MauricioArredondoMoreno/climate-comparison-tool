@@ -2,6 +2,7 @@
 # Pro Weather App
 
 A modern weather application built with React and TypeScript, powered by Vite. This app allows users to view current weather conditions and a forecast for a specified city, with a dynamic background that changes based on the time of day. It also features a comparison view to compare weather across different locations.
+![climate-comparison-tool](wea.png)
 
 ## Features
 
